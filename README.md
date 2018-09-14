@@ -1,5 +1,5 @@
 # 一、简介 
-### Tensorflow入门的Hello World程序，利用Tensorflow和MNIST实现的一个简单的手写数字识别程序。
+### Tensorflow入门的Hello World程序，利用Tensorflow和MNIST实现的一个简单的手写数字识别程序，用PyQt5做的界面。
 
 # 二、效果图     
 
