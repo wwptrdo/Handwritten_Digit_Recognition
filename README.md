@@ -4,3 +4,10 @@
 # 二、效果图     
 
 ![Handwritten_Digit_Recog](https://github.com/wwptrdudu/Handwritten_Digit_Recognition/blob/master/pic/result_show.gif )
+
+# Contact me 
+#### If you have any questions, please contact me.
+#### tg: @wwptrdudu
+###### This link opens a chat with me.
+       https://t.me/wwptrdudu
+#### e-mail: 1348351139@qq.com
