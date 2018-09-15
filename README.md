@@ -7,7 +7,4 @@
 
 # Contact me 
 #### If you have any questions, please contact me.
-#### tg: @wwptrdudu
-###### This link opens a chat with me.
-       https://t.me/wwptrdudu
 #### e-mail: 1348351139@qq.com
